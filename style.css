@@ -20,7 +20,7 @@ body{
     width: 70%;
 }
 .button{
-  background-color: olivedrab;
+  background-color: rgba(147, 209, 22, 0.945);
   color: red;
   padding: 5px 5px;
 }
@@ -93,4 +93,27 @@ margin-left: 250px;
 }
 .project-pic img{
     width: 350px;
+}
+.fifth-section{
+    display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+}
+.university-pic{
+ width: 80%;
+}
+.university-pic img{
+   width: 70%; 
+   margin-left: 150px;
+}
+.my-profile{
+    width: 50%;
+    margin-right: 60px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    margin-bottom: 20px;
 }
