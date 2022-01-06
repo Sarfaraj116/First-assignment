@@ -117,3 +117,12 @@ footer{
     color: whitesmoke;
     margin-bottom: 20px;
 }
+.foot-color{
+    color: orangered;
+}
+.fnt-foot{
+    font-family: 'Satisfy', cursive; 
+}
+.colr-foot{
+    color: rgb(131, 143, 122);
+}
