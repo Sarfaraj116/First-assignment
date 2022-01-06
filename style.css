@@ -24,3 +24,45 @@ body{
   color: red;
   padding: 5px 5px;
 }
+.second-parent{
+    text-align: center;
+    margin-top: 70px;
+}
+.mission{
+    width: 250px;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 10px;
+    box-shadow: 5px 5px 30px gray;
+    background-image: url(images/shapes/shape-3.png);
+}
+.div-img img{
+    width: 100%;
+}
+.mission-vission-goal{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.vission{
+    width: 250px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    border: 10px;
+    box-shadow: 5px 5px 30px gray;
+    background-image: url(images/shapes/shape-5.png);
+}
+.goal{
+    width: 250px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    border: 10px;
+    box-shadow: 5px 5px 30px gray;
+    background-image: url(images/shapes/shape-4.png);
+}
