@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.mission-color{
+    color: orange;
+}
+.focused-line{
+    border-left: 4px solid orangered;
+    font-size: 35px;
+}
+.first-parent{
+    display: flex;
+    margin-left: 100px;
+}
+.img-position{
+   width: 50%;
+}
+.img-position img{
+    width: 70%;
+}
+.button{
+  background-color: olivedrab;
+  color: red;
+  padding: 5px 5px;
+}
