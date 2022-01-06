@@ -78,3 +78,19 @@ body{
 width: 50%;
 margin-left: 250px;
 }
+.forth-section{
+    display: flex;
+    margin-bottom: 150px;
+    margin-top: 120px;
+    margin-left: 200px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 250px;
+}
+.project-pic{
+    width: 70%;
+}
+.project-pic img{
+    width: 350px;
+}
