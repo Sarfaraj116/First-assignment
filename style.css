@@ -66,3 +66,15 @@ body{
     box-shadow: 5px 5px 30px gray;
     background-image: url(images/shapes/shape-4.png);
 }
+.third-section{
+    display: flex;
+    margin-top: 70px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 350px;
+}
+.img-coding img{
+width: 50%;
+margin-left: 250px;
+}
